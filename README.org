@@ -3,8 +3,7 @@
 Implementation of the Unicode Standards Annex #9's bidirectional text algorithm
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/shinmera/uax-9.git   |
-| commit  | 03d1bed  |
-| systems | uax-9 |
+| source  | git:https://github.com/shinmera/uax-9.git |
+| commit  | 0c3aa8d                                   |
+| systems | uax-9                                     |
 |---------+-------------------------------------------|
-
